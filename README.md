@@ -1,4 +1,4 @@
-### Hi there 👋
+### Assalamualaikum Dunia 👋
 
 ### Github Statistic
 <p align="left">
