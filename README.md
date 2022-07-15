@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/gilangadhan">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbimanyuLuthfi&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbimanyuLuthfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 <!--
 **AbimanyuLuthfi/AbimanyuLuthfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
