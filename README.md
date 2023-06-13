@@ -10,7 +10,7 @@
 <!-- markdownlint-enable MD033 -->
 
 <div>
-  <img  height="180em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  height="200em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
