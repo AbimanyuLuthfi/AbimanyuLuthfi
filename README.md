@@ -20,12 +20,21 @@
 </div>
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/gilangadhan">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbimanyuLuthfi&layout=compact&langs_count=8&theme=buefy"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbimanyuLuthfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
+<details open="">
+<summary>
+ 📔 GitHub Stats:
+</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/omunite215">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/omunite215">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
 </p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
+</details>
 <!--
 **AbimanyuLuthfi/AbimanyuLuthfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
