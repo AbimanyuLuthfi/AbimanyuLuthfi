@@ -12,11 +12,6 @@
   <b><i>"---Trust in God for all circumstances and always be useful for others---"</i></b>
 </p>
 
-<div>
-  <img  height="200em" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <details>
 <summary>
   ✨ Tech stack currently using:
