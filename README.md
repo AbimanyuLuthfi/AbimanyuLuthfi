@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    <b>Abimanyu Luthfi</b>, a final year <b>Informatics</b> undergraduate from <b>Pembangunan Jaya University</b>, Tangerang.
+    <b>Abimanyu Luthfi</b>, Freshgraduate Majoring in <b>Informatics Engineering</b> at <b>Pembangunan Jaya University</b>, Tangerang.
    &nbsp; <b>Junior Full Stack Web Developer</b>&nbsp; and <b> Software Engineering Enthusiast.</b> 
   <br>
   <b><i>"---Trust in God for all circumstances and always be useful for others---"</i></b>
