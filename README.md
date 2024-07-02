@@ -1,7 +1,7 @@
 ###
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Abimanyu Luthfi Rizq Ramadhan</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Full+Stack+Web+Developer;Informatics+Undergraduate&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Full+Stack+Web+Developer;IoT+BAS+Developer&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <b>Abimanyu Luthfi</b>, Freshgraduate Majoring in <b>Informatics Engineering</b> at <b>Pembangunan Jaya University</b>, Tangerang.
    &nbsp; <b>Junior Full Stack Web Developer</b>&nbsp; and <b> Software Engineering Enthusiast.</b> 
   <br>
-  <b><i>"---Trust in God for all circumstances and always be useful for others---"</i></b>
+  <b><i>"---Trust in God for all situations and always being useful to others---"</i></b>
 </p>
 
 <details>
