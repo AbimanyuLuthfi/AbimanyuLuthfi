@@ -29,6 +29,7 @@
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
  <code><a href="https://www.codeigniter.com/" target="_blank"><img height="30" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png"></a></code>
+  <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 </details>
 <br>
 
